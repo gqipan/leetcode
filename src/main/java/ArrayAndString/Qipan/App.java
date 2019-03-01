@@ -1,7 +1,7 @@
 package ArrayAndString.Qipan;
 
 /**
- * @author gongqipan@qipeipu.com
+ * @author Qipan.G
  * @since 2019/3/1 10:42
  */
 public class App {
