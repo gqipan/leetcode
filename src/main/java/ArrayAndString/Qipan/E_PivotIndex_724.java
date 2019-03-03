@@ -29,7 +29,7 @@ package ArrayAndString.Qipan;
  * @author Qipan.G
  * @since 2019/3/2 13:18
  */
-public class PivotIndex_724 {
+public class E_PivotIndex_724 {
 
     public static int solution_1(int[] nums) {
         if (nums.length > 10000 || nums.length == 0) {

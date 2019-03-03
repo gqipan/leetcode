@@ -28,7 +28,7 @@ package ArrayAndString.Qipan;
  * @author Qipan.G
  * @since 2019/3/2 19:42
  */
-public class FindDiagonalOrder_498 {
+public class M_FindDiagonalOrder_498 {
 
 
     public static int[] solution_1(int[][] matrix) {

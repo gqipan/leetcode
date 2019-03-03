@@ -20,7 +20,7 @@ package ArrayAndString.Qipan;
  * @author Qipan.G
  * @since 2019/3/2 16:22
  */
-public class PlusOne_66 {
+public class E_PlusOne_66 {
 
 
     public static int[] solution_1(int[] digits) {

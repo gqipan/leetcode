@@ -27,7 +27,7 @@ package ArrayAndString.Qipan;
  * @author Qipan.G
  * @since 2019/3/2 15:51
  */
-public class DominantIndex_747 {
+public class E_DominantIndex_747 {
 
 
     public static int solution_1(int[] nums) {
