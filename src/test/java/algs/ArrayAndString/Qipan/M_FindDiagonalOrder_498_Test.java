@@ -1,5 +1,6 @@
-package ArrayAndString.Qipan;
+package algs.ArrayAndString.Qipan;
 
+import algs.ArrayAndString.middle.M_FindDiagonalOrder_498;
 import org.junit.Assert;
 import org.junit.Test;
 

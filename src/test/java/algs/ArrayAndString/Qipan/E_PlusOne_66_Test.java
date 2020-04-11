@@ -1,5 +1,6 @@
-package ArrayAndString.Qipan;
+package algs.ArrayAndString.Qipan;
 
+import algs.ArrayAndString.easy.E_PlusOne_66;
 import org.junit.Assert;
 import org.junit.Test;
 

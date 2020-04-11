@@ -1,9 +1,8 @@
-package ArrayAndString.Qipan;
+package algs.ArrayAndString.Qipan;
 
+import algs.ArrayAndString.easy.E_Fib_509;
 import org.junit.Assert;
 import org.junit.Test;
-
-import static org.junit.Assert.*;
 
 /**
  * @author Qipan.G

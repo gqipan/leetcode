@@ -1,4 +1,4 @@
-package ArrayAndString.Qipan;
+package algs.ArrayAndString.easy;
 
 /**
  * 给出一个整数数组 A 和一个查询数组 queries。

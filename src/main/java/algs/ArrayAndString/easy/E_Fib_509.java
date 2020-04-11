@@ -1,4 +1,4 @@
-package ArrayAndString.Qipan;
+package algs.ArrayAndString.easy;
 
 /**
  * @author Qipan.G
